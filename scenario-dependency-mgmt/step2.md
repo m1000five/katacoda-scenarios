@@ -1,4 +1,4 @@
-# Heading for Step 2
+# Continuando con el parent-project
 
 Si cerramos y volvemos a abrir el pom.xml del parent-project se notará que se agregó:
 

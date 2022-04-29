@@ -1,6 +1,5 @@
-# Heading for Step 3
+# Ejecutando objetivos.
 
-Ejecutando objetivos.
 
 Cambiamos a la ubicación de un proyecto básico:
 

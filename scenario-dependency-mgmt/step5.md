@@ -1,8 +1,19 @@
-# Heading for Step 3
+# Utilizando Gradle
 
-This is some text.
+Accedamos a la carpeta con el proyecto:
 
-Here's a single line of runnable code:
+`cd /root/gradle/complete`{{execute}}
 
-`printf 'Cello, world!\n\n'`{{execute}}
+Listemos las tareas disponibles:
+
+`gradle tasks`{{execute}}
+
+Construyamos el proyecto:
+
+`gradle build`{{execute}}
+
+Revisemos la carpeta build:
+
+`find build`{{execute}}
+
 

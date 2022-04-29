@@ -1,6 +1,4 @@
-# Heading for Step 3
-
-Ejecución de una aplicacion web en tomcat mediante maven.
+# Ejecución de una aplicacion web en tomcat mediante maven
 
 Ubiquémonos en la carpeta del proyecto:
 

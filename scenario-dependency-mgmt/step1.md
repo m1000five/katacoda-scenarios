@@ -1,6 +1,5 @@
-# Heading for Step 1
+# Construyendo un Proyecto Multi-Modulo Maven
 
-Construyendo un Proyecto Multi-Modulo Maven.
 
 Lanzar el comando:
 
