@@ -16,4 +16,12 @@ Revisemos la carpeta build:
 
 `find build`{{execute}}
 
+Construyamos el wrapper para ejecución:
+
+`gradle wrapper`{{execute}}
+
+Demos permisos de ejecución y lancemos la aplicacion:
+
+`chmod 777 gradlew`{{execute}}
+`./gradlew run`{{execute}}
 

@@ -1,22 +1,18 @@
-# New Scenario Template (Your Title Here)
+# Maven y Gradle
 
-Maven y Gradle
+## Escenario de aprendizace introductorio a Maven y Gradle
 
-## Description
-
-Escenario de aprendizace introductorio a Maven y Gradle
-
-## Learning Objective
+## Objetivos
 
 - Comandos básicos
 
-## Prerequisite Skills
+## Prerrequisitos
 
 Conocimientos básicos de java y linea de comandos
 
-## Table of Contents
+## Tabla de contenido
 
-Contenido.
+Pasos.
 
 - Scenario A
 - Scenario B
