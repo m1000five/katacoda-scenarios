@@ -10,17 +10,13 @@ Listemos el contenido:
 
 `find`{{execute}}
 
-Lancemos una verificación:
-
-`mvn verify`{{execute}}
-
 Construyamos y generemos empaquetado:
 
 `mvn package`{{execute}}
 
-Listemos el contenido de target:
+Listemos el contenido de target de módulo web :
 
-`find target`{{execute}}
+`find in28minutes-web-servlet-jsp/target`{{execute}}
 
 Despleguemos y lancemos la aplicación en tomcat:
 
