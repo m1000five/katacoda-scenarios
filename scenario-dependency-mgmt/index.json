@@ -2,7 +2,7 @@
   "title": "Dependency Scenario",
   "description": "Dependency Scenario.",
   "difficulty": "Beginner",
-  "time": "3 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
@@ -31,7 +31,7 @@
 			]
 		}
   },
-  "files": [ "editor.txt"],
+  "files": [ "app.js"],
   "environment": {
     "uilayout": "terminal"
   },
