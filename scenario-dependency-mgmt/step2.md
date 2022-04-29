@@ -22,3 +22,8 @@ Construyamos el proyecto:
 
 `mvn package`{{execute}}
 
+Examinemos el folder target del webapp:
+
+`ls webapp/target`{{execute}}
+
+
