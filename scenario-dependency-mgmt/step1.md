@@ -1,8 +1,10 @@
 # Heading for Step 1
 
-This is some text.
+Construyendo un Proyecto Multi-Modulo Maven.
 
-Here's a single line of runnable code:
+Lanzar el comando:
 
-`printf 'Hello, world!\n\n'`{{execute}}
+`mvn archetype:generate -DgroupId=com.baeldung -DartifactId=parent-project`{{execute}}
+
+
 
