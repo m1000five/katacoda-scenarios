@@ -1,8 +1,29 @@
 # Heading for Step 3
 
-This is some text.
+Ejecutando objetivos.
 
-Here's a single line of runnable code:
+Cambiamos a la ubicación de un proyecto básico:
 
-`printf 'Cello, world!\n\n'`{{execute}}
+`cd /root/maven/1.basic-maven-example`{{execute}}
+
+Ejecutamos solo la compilación:
+
+`mvn compile`{{execute}}
+
+Ejecutamos limpieza:
+
+`mvn clean`{{execute}}
+
+Ejecutamos pruebas:
+
+`mvn test`{{execute}}
+
+Ejecutamos el empaquetamiento:
+
+`mvn package`{{execute}}
+
+Ejecutamos instalación local:
+
+`mvn install`{{execute}}
+
 
