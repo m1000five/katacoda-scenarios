@@ -33,7 +33,9 @@
   },
   "files": [ "app.js"],
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal",
+    "uisettings": "javascript",
+    "uieditorpath": "/root"
   },
   "backend": {
     "imageid": "openjdk:15"
